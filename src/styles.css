@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap");
+
+.heading {
+  font-family: Kanit;
+  text-align: center;
+  margin: 10px 10px;
+  background-color: pink;
+  border-radius: 15px;
+  box-shadow: 10px rgba(0, 0, 0, 0.3);
+  border: 2px solid #b3aaf1;
+}
+body {
+  background-color: blanchedalmond;
+  margin: 16px 32px;
+}
+.form {
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 16px;
+
+  border-width: 5px;
+  border-color: rgb(238, 135, 135);
+  margin: 30px 20px;
+  margin-left: 30px;
+}
